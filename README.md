@@ -22,9 +22,6 @@ the Earth's size, shape, and gravity and geomagnetic fields.
 WGS84 is the standard U.S. Department of Defense definition of a global reference system
 for geospatial information and is the reference system for the Global Positioning System (GPS).
 
-All directions below are for Unix based systems. 
-For Windows use the corresponding *.bat scripts.
-
 ## Building & Running Unit Tests 
 Clone the project. At the root of the project run:
 ```$bash
